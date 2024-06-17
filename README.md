@@ -18,5 +18,6 @@ I'm a technical writer with experience crafting internal and customer-facing doc
 - Compiled a video documentation style guide and developed training material for a department of 30 technical writers
 ## Education
 ### Missouri State University — Professional/Technical Writing, 2016
+### Manhattan Christian College - Pastoral Studies, 2007
 ## Skills
 Software Documentation, User Guides, Release Notes, Technical Documents, XML, DITA, API, Markdown, GIT, Jira, Confluence, Visual Studio, Microsoft Office
